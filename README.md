@@ -1,5 +1,7 @@
 # Platformatic DB API
 
+Video link: https://www.youtube.com/live/dIyqbtEUTxI?feature=share
+
 This is a generated [Platformatic DB](https://oss.platformatic.dev/docs/reference/db/introduction) application.
 
 ## Requirements
