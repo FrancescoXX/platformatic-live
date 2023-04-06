@@ -1,0 +1,6 @@
+CREATE TABLE quotes (
+  id INTEGER PRIMARY KEY,
+  quote TEXT NOT NULL,
+  author TEXT NOT NULL,
+  movie_id INTEGER NOT NULL REFERENCES movies(id)
+);
